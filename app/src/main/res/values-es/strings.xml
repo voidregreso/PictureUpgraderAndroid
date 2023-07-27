@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perfeccionamiento</string>
+    <string name="in_progress">En curso…</string>
+    <string name="large_warn">"La resolución de esta imagen es demasiado alta, y la superresolución de imágenes de alta resolución consumirá muchos recursos de CPU, GPU y RAM, lo que puede llevar al fallo de la tarea debido al espacio limitado de RAM del teléfono móvil y a la existencia del mecanismo de Android para matar procesos de alto consumo. Por lo tanto, realizamos automáticamente la operación de down-sampling por usted.\n\n¿Desea continuar?"</string>
+    <string name="warn_title">Advertencia</string>
+    <string name="extracting">Extracción de modelos en curso, por favor espere…</string>
+    <string name="content_in_progress">%s en curso, por favor espere…</string>
+    <string name="select_image">Seleccionar Imagen</string>
+    <string name="super_resolution">Superresolución</string>
+    <string name="coloration">Coloración</string>
+    <string name="down_sampling">Reducción de la Resolución</string>
+    <string name="current_res">Resolución Actual</string>
+</resources>

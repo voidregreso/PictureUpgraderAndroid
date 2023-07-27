@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Enhancement</string>
+    <string name="in_progress">In progress…</string>
+    <string name="large_warn">"The resolution of this image is too high, and super-resolution of high-resolution images will consume a lot of CPU, GPU and RAM resources, which may lead to task failure due to the limited RAM space of the mobile phone and the existence of Android's mechanism to kill high-consumption processes. Therefore, we automatically perform the down-sampling operation for you.\n\nDo you want to continue?"</string>
+    <string name="warn_title">Warning</string>
+    <string name="extracting">Extracting models in progress, please wait…</string>
+    <string name="content_in_progress">%s in progress, please wait…</string>
+    <string name="select_image">Select Image</string>
+    <string name="super_resolution">Super Resolution</string>
+    <string name="coloration">Colouration</string>
+    <string name="down_sampling">Resolution Reduction</string>
+    <string name="current_res">Current Resolution</string>
+</resources>
